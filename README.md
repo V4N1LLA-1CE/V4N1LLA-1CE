@@ -1,16 +1,23 @@
-## Hi there 👋
+## <picture><img src = "./assets/hacker.gif?raw=true" width = 55px style="margin-right: 10px;" ></picture> About Me
 
-<!--
-**V4N1LLA-1CE/V4N1LLA-1CE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture> <img align="right" src="./assets/server.gif?raw=true" width = 150px></picture>
 
-Here are some ideas to get you started:
+🎓 Final year student at Monash University. <br>👾 My primary interest revolves around <b>backend development</b> and <b>cloud infrastructure</b>.<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## <picture> <img src = "./assets/spinning-cog.gif?raw=true" width = 50px style="margin-right: 12px;"> </picture> Languages and Tools
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,php,mysql,nodejs,express,mongo,git,github,ts,react,angular,neovim&perline=6" />
+  </a>
+</p>
+
+## <picture> <img src = "./assets/stats-vector.svg?" width = 50px style="margin-right: 12px; padding: 30px;"></picture> Github Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V4N1LLA-1CE&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=V4N1LLA-1CE&theme=transparent&hide_border=true&stroke=transparent" align="center"/>
+</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->!
