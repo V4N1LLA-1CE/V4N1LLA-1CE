@@ -14,7 +14,7 @@
   </a>
 </p>
 
-## <picture> <img src = "./assets/stats-vector.svg?" width = 50px style="margin-right: 12px; padding: 30px;"></picture> Github Stats
+## <picture> <img src = "./assets/stats-vector.svg?" width = 40px style="margin-right: 20px;"></picture> Github Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V4N1LLA-1CE&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center"/>
