@@ -3,11 +3,10 @@
 
 ## <picture><img src = "./assets/hacker.gif?raw=true" width = 55px style="margin-right: 10px;" ></picture> About Me
 <picture> <img align="right" src="./assets/server.gif?raw=true" width = 150px></picture>
-🎓 Final year student at Monash University \
-🌱 Currently learning system design and architecture patterns \
-💡 Exploring new technologies and development practices
-<br>
-<br>
+##### 🎓  Final year student at Monash University 
+##### 🌱  Currently learning system design and architecture patterns 
+#####  🎮  Enjoy manga and video games  
+##### 🎧  Likes lofi and chill
 
 ## <picture> <img src = "./assets/spinning-cog.gif?raw=true" width = 50px style="margin-right: 12px;"> </picture> Languages and Tools
 <br>
@@ -21,9 +20,8 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=V4N1LLA-1CE&theme=transparent&hide_border=true&stroke=transparent" align="center"/>
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V4N1LLA-1CE&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&v=4" align="center"/>
 </div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V4N1LLA-1CE&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&v=4" align="center"/>
-</div>
+
+
 <!-- Profile inspired by awesome GitHub README examples -->
