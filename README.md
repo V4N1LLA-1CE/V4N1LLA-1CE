@@ -6,7 +6,7 @@
 ##### 🎓  Final year student at Monash University 
 ##### 🌱  Currently learning system design and architecture patterns 
 #####  🎮  Enjoy manga and video games  
-##### 🎧  Likes lofi and chill
+##### 🎧  I like lofi and chill
 
 ## <picture> <img src = "./assets/spinning-cog.gif?raw=true" width = 50px style="margin-right: 12px;"> </picture> Languages and Tools
 <br>
