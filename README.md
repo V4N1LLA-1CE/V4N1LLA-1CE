@@ -20,7 +20,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=V4N1LLA-1CE&theme=transparent&hide_border=true&stroke=transparent" align="center"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V4N1LLA-1CE&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&v=4" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V4N1LLA-1CE&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center"/>
 </div>
 
 
