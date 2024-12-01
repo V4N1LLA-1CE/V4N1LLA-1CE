@@ -1,5 +1,5 @@
 # <div align="center">Hi, I'm Austin 👋</div>
-<div align="center">My primary interest revolves around Backend Development and DevOps</div>
+<div align="center">👾 My interest revolves around building secure, performant and scalable backends whilst following best practices</div>
 
 ## <picture><img src = "./assets/hacker.gif?raw=true" width = 55px style="margin-right: 10px;" ></picture> About Me
 <picture> <img align="right" src="./assets/server.gif?raw=true" width = 150px></picture>
