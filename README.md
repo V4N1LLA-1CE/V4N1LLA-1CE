@@ -4,7 +4,6 @@
 ## <picture><img src = "./assets/hacker.gif?raw=true" width = 55px style="margin-right: 10px;" ></picture> About Me
 <picture> <img align="right" src="./assets/server.gif?raw=true" width = 150px></picture>
 ##### 🎓  Final year student at Monash University 
-##### 🌱  Currently learning system design and architecture patterns 
 #####  🎮  Enjoy manga and video games  
 ##### 🎧  I like lofi and chill
 
