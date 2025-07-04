@@ -4,8 +4,8 @@
 ## <picture><img src = "./assets/hacker.gif?raw=true" width = 55px style="margin-right: 10px;" ></picture> About Me
 <picture> <img align="right" src="./assets/server.gif?raw=true" width = 150px></picture>
 ##### 🎓  Final year student at Monash University
-##### 🎧  I enjoy lofi and chill
-##### 🍵 I love Matcha & Coffee
+##### 🎧  I enjoy listening lofi and jpop
+##### 🍵 I love drinking Matcha & Coffee
 
 ## <picture> <img src = "./assets/spinning-cog.gif?raw=true" width = 50px style="margin-right: 12px;"> </picture> Languages and Tools
 <br>
