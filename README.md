@@ -11,7 +11,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,docker,terraform,postgres,java,spring,php,git,github,aws,gcp,react,nestjs,mongo,mysql,neovim&perline=8" />
+    <img src="https://skillicons.dev/icons?i=go,docker,terraform,postgres,nginx,java,spring,git,github,aws,gcp,react,nestjs,mongo,mysql,neovim&perline=8" />
   </a>
 </p>
 
