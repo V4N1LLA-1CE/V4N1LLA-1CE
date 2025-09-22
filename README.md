@@ -18,8 +18,7 @@
 ## <picture> <img src = "https://github.com/user-attachments/assets/3fdb9e69-31a4-44a6-933e-3e81afdcfe2f" width = 50px style="margin-right: 12px;"> </picture> Github Stats
 
 <div align="center">
-
-  ![](https://github-readme-stats.vercel.app/api?username=V4N1LLA-1CE&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
+  
   ![](https://nirzak-streak-stats.vercel.app/?user=V4N1LLA-1CE&theme=transparent&hide_border=true)
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=V4N1LLA-1CE&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
