@@ -3,7 +3,6 @@
 
 ## About Me
 ##### 🔧 Backend-focused engineer | Java, Go, Elixir
-##### 🚀 Currently exploring real-time systems with Elixir/Phoenix
 ##### 📱 Comfortable with React, Tailwind, MUI & SCSS when needed
 
 ## Languages and Tools
