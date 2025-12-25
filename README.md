@@ -2,7 +2,7 @@
 <div align="center">I am a software engineer based in <code><strong>Melbourne, AU</strong></code> & <code><strong>Bangkok, TH</strong></code></div> 
 
 ## About Me
-##### 🔧 Backend-focused engineer | Java, Go, Elixir, Typescript
+##### 🔧 Backend-focused engineer | Go, Java, Elixir
 ##### 📱 Comfortable with frontend codebases | i.e. React, Tailwind, MUI, SCSS (and more) when needed
 
 ## Languages and Tools
